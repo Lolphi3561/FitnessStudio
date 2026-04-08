@@ -1,0 +1,18 @@
+components:
+- components:
+  - name: repeating_panel_1
+    properties: {item_template: Kursuebersicht.RowTemplate1}
+    type: RepeatingPanel
+  layout_properties: {grid_position: 'ZXEXHI,IXXPLF'}
+  name: data_grid_1
+  properties:
+    columns:
+    - {data_key: kurs, id: JKSDUP, title: Kurs}
+    - {data_key: wochentag, id: VJQQOR, title: Wochentag}
+    - {data_key: uhrzeit, id: OJLQEN, title: Uhrzeit}
+    - {data_key: trainer, id: BMDKXC, title: Trainer}
+    - {data_key: teilnehmer, id: TAWLWG, title: Teilnehmer}
+    - {data_key: Anmelden, id: PNOQJP, title: Anmelden}
+  type: DataGrid
+container: {type: ColumnPanel}
+is_package: true

@@ -3,7 +3,12 @@ unique_ids:
     standard-page.html: MINPR4V72RFOOSEFDKRCUVZWUZF4IWKN
     theme.css: NAN7JPT6DV5G4YTPUZG5EPAQIGDXKDFR
   forms:
-    Form1: HI4HEYHIDGR5JNCCWXOZOLT5NSGGEHCB
+    Kursuebersicht: '1775638336465469978817519.5597'
+    Kursuebersicht.ItemTemplate1: '1775639655804943301895769.6793'
+    Kursuebersicht.Neue_Anmeldung: HI4HEYHIDGR5JNCCWXOZOLT5NSGGEHCB
+    Kursuebersicht.Neue_Anmeldung.RowTemplate2: '1775640770117879014480098.0315'
+    Kursuebersicht.RowTemplate1: '1775638421666752236529188.0062'
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    Backend: '1775638586755700304967564.2734'
